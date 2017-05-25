@@ -1,0 +1,22 @@
+//Create a new object before using the conversion utility
+//Example: conversionUtility namehere = new conversionUtility();
+
+//Method names and uses
+
+//converts feet to inches and displays on screen: takes float
+convertFeetToInches(input)
+
+//converts gallons to tablespoons and displays on screen: takes float
+convertGallonstoTableSpns(input)
+
+//converts Parsecs to lightyears and displays on screen: takes double
+convertParsecToLightyear(input)
+
+//converts cup to teaspoons and displays on screen: takes double
+convertCupToTeaspn(input)
+
+//converts miles to centimeters and displays on screen: takes float
+convertMilesToCntmtr(input)
+
+//converts weeks to minutes and displays on screen: takes double
+convertWeekToMinute(input)
